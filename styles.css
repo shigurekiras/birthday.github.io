@@ -51,8 +51,8 @@ body {
 }
 
 #board {
-    width: 688px;
-    height: 688px;
+    width: 689px;
+    height: 689px;
     border: 2px solid rgb(192, 192, 192);
     margin: 0 auto;
     display: flex;
